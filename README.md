@@ -1,4 +1,4 @@
-# reimagined-life
+# re-imagined life
 
 Hello World!
 
